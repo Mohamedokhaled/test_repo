@@ -1,0 +1,8 @@
+../Drivers/Application_Drivers/RTC_Wrapper/rtc_wrapper.c:8:14:rtc_get_date	40	static
+../Drivers/Application_Drivers/RTC_Wrapper/rtc_wrapper.c:67:14:rtc_get_time	40	static
+../Drivers/Application_Drivers/RTC_Wrapper/rtc_wrapper.c:95:14:rtc_get_data_time	40	static
+../Drivers/Application_Drivers/RTC_Wrapper/rtc_wrapper.c:172:14:rtc_set_date	40	static
+../Drivers/Application_Drivers/RTC_Wrapper/rtc_wrapper.c:252:14:rtc_set_time	40	static
+../Drivers/Application_Drivers/RTC_Wrapper/rtc_wrapper.c:299:14:rtc_set_data_time	40	static
+../Drivers/Application_Drivers/RTC_Wrapper/rtc_wrapper.c:411:12:fm	40	static
+../Drivers/Application_Drivers/RTC_Wrapper/rtc_wrapper.c:436:9:day_of_week	40	static

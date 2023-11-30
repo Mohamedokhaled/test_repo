@@ -1,0 +1,15 @@
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/apdu.c:118:5:apdu_generateApplicationContextName	38
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/apdu.c:218:15:useDedicatedKey	2
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/apdu.c:233:5:apdu_getConformanceFromArray	4
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/apdu.c:258:5:apdu_setConformanceToArray	3
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/apdu.c:281:5:apdu_getInitiateRequest	11
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/apdu.c:447:5:apdu_parseUserInformation	68
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/apdu.c:790:5:apdu_parseApplicationContextName	25
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/apdu.c:903:5:apdu_validateAare	5
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/apdu.c:934:5:apdu_updatePassword	10
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/apdu.c:981:5:apdu_updateAuthentication	16
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/apdu.c:1070:5:apdu_getUserInformation	18
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/apdu.c:1183:5:apdu_handleResultComponent	7
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/apdu.c:1211:5:apdu_parseProtocolVersion	7
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/apdu.c:1242:5:apdu_parsePDU	126
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/apdu.c:1926:5:apdu_generateAARE	37

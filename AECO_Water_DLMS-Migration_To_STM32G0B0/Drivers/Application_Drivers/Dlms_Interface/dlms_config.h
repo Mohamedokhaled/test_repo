@@ -1,0 +1,23 @@
+
+
+#ifndef _O_CONFIG_H_
+#define _O_CONFIG_H_
+
+/* DLMS setting configurations */
+#define HDLC_T3_HEADER_SIZE		17U
+#define DLMS_HDLC_BUFFER_SIZE	128U
+#define DLMS_PDU_BUFFER_SIZE	256U
+
+#define DLMS_DEVICE_ID_LEN			16U
+#define DLMS_DEVICE_ID				(const uint8_t*)"12345678"
+#define DLMS_AUTH_NONE_CLIENT_SAP	16U
+
+/* HDLC Default Configurations */
+#define HDLC_SERIAL_BAUD_RATE 		9600U
+#define HDLC_WINDOW_SIZE_RX			1U
+#define HDLC_WINDOW_SIZE_TX			1U
+#define HDLC_MAX_INFO_LENGTH_TX		DLMS_HDLC_BUFFER_SIZE
+#define HDLC_MAX_INFO_LENGTH_RX		DLMS_HDLC_BUFFER_SIZE
+#define HDLC_INACTIVE_TIMEOUT_MS	120
+
+#endif /* _O_CONFIG_H_ */

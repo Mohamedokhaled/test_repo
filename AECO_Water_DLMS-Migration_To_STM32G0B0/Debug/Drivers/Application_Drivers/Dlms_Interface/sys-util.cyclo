@@ -1,0 +1,11 @@
+../Drivers/Application_Drivers/Dlms_Interface/sys-util.c:37:9:sysal_mem_pool_init	2
+../Drivers/Application_Drivers/Dlms_Interface/sys-util.c:66:17:sysal_mem_pool_find_avail_chunk	4
+../Drivers/Application_Drivers/Dlms_Interface/sys-util.c:90:7:sysal_mem_alloc	5
+../Drivers/Application_Drivers/Dlms_Interface/sys-util.c:108:6:sysal_mem_free	2
+../Drivers/Application_Drivers/Dlms_Interface/sys-util.c:121:7:sysal_mem_calloc	5
+../Drivers/Application_Drivers/Dlms_Interface/sys-util.c:141:7:sysal_mem_realloc	1
+../Drivers/Application_Drivers/Dlms_Interface/sys-util.c:146:10:sysal_mem_get_needed_size	1
+../Drivers/Application_Drivers/Dlms_Interface/sys-util.c:150:10:sysal_get_current_time	1
+../Drivers/Application_Drivers/Dlms_Interface/sys-util.c:156:10:sysal_get_elapsed_time_ms	1
+../Drivers/Application_Drivers/Dlms_Interface/sys-util.c:162:9:dlms_send_frame	2
+../Drivers/Application_Drivers/Dlms_Interface/sys-util.c:196:6:sysal_init	1

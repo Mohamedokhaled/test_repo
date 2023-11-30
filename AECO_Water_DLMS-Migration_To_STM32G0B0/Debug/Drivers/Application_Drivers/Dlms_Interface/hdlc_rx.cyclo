@@ -1,0 +1,14 @@
+../Drivers/Application_Drivers/Dlms_Interface/hdlc_rx.c:23:6:hdlc_rx_proc_context_reset	1
+../Drivers/Application_Drivers/Dlms_Interface/hdlc_rx.c:33:6:hdlc_rx_proc_init	1
+../Drivers/Application_Drivers/Dlms_Interface/hdlc_rx.c:39:6:hdlc_rx_proc_config	2
+../Drivers/Application_Drivers/Dlms_Interface/hdlc_rx.c:51:13:hdlc_rx_proc_reconfig	2
+../Drivers/Application_Drivers/Dlms_Interface/hdlc_rx.c:59:6:hdlc_rx_set_frame_ready	1
+../Drivers/Application_Drivers/Dlms_Interface/hdlc_rx.c:63:9:hdlc_rx_get_frame_ready	5
+../Drivers/Application_Drivers/Dlms_Interface/hdlc_rx.c:81:6:hdlc_rx_set_frame_consumed	1
+../Drivers/Application_Drivers/Dlms_Interface/hdlc_rx.c:90:10:sys_timestamp_ms	1
+../Drivers/Application_Drivers/Dlms_Interface/hdlc_rx.c:94:10:sys_time_elapsed_ms	2
+../Drivers/Application_Drivers/Dlms_Interface/hdlc_rx.c:104:13:print_frame	3
+../Drivers/Application_Drivers/Dlms_Interface/hdlc_rx.c:119:6:hdlc_Tx_proc	5
+../Drivers/Application_Drivers/Dlms_Interface/hdlc_rx.c:168:6:hdlc_rx_proc_4G	1
+../Drivers/Application_Drivers/Dlms_Interface/hdlc_rx.c:173:6:hdlc_rx_proc	15
+../Drivers/Application_Drivers/Dlms_Interface/hdlc_rx.c:239:6:hdlc_rx_timeout_handle	7
