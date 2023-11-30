@@ -1,4 +1,0 @@
-../Drivers/Application_Drivers/kernal/task.c:23:6:InitTaskQue	16	static
-../Drivers/Application_Drivers/kernal/task.c:40:12:PutTaskIntoQue_INT	16	static
-../Drivers/Application_Drivers/kernal/task.c:60:12:PutTaskIntoQue	32	static,ignoring_inline_asm
-../Drivers/Application_Drivers/kernal/task.c:77:12:GetTaskFromQue	16	static,ignoring_inline_asm

@@ -1,4 +1,0 @@
-../Drivers/Application_Drivers/Dlms_Interface/Srcs/gxsha1.c:50:6:gxsha1_transform	1
-../Drivers/Application_Drivers/Dlms_Interface/Srcs/gxsha1.c:148:6:gxsha1_update	3
-../Drivers/Application_Drivers/Dlms_Interface/Srcs/gxsha1.c:162:5:gxsha1_final	5
-../Drivers/Application_Drivers/Dlms_Interface/Srcs/gxsha1.c:201:5:gxsha1_encrypt	1

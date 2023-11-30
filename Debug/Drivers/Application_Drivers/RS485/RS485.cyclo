@@ -1,3 +1,0 @@
-../Drivers/Application_Drivers/RS485/RS485.c:14:6:rs485_Init	1
-../Drivers/Application_Drivers/RS485/RS485.c:22:6:rs485_send	1
-../Drivers/Application_Drivers/RS485/RS485.c:31:6:rs485_receive_callback	1

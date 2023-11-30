@@ -1,5 +1,0 @@
-../Drivers/Application_Drivers/Dlms_Interface/sys-hal.c:7:7:malloc	16	static
-../Drivers/Application_Drivers/Dlms_Interface/sys-hal.c:11:6:free	16	static
-../Drivers/Application_Drivers/Dlms_Interface/sys-hal.c:16:10:time_elapsed	8	static
-../Drivers/Application_Drivers/Dlms_Interface/sys-hal.c:25:10:time_current	8	static
-../Drivers/Application_Drivers/Dlms_Interface/sys-hal.c:33:6:sysal_trace	8	static

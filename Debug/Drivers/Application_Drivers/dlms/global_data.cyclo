@@ -1,5 +1,0 @@
-../Drivers/Application_Drivers/dlms/global_data.c:13:5:_init_arra_data	1
-../Drivers/Application_Drivers/dlms/global_data.c:508:5:init_all_data	5
-../Drivers/Application_Drivers/dlms/global_data.c:552:17:handle_data_write_callback	13
-../Drivers/Application_Drivers/dlms/global_data.c:640:17:handle_data_read_callback	16
-../Drivers/Application_Drivers/dlms/global_data.c:739:5:Data_HandleMethodCallBack	1

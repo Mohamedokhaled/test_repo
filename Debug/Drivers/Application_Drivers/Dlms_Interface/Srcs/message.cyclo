@@ -1,3 +1,0 @@
-../Drivers/Application_Drivers/Dlms_Interface/Srcs/message.c:47:6:mes_init	1
-../Drivers/Application_Drivers/Dlms_Interface/Srcs/message.c:64:5:mes_push	4
-../Drivers/Application_Drivers/Dlms_Interface/Srcs/message.c:100:6:mes_clear	4

@@ -1,4 +1,0 @@
-../Drivers/Application_Drivers/Dlms_Interface/Image.c:28:5:get_command_data	4
-../Drivers/Application_Drivers/Dlms_Interface/Image.c:72:5:image_transfer_preRead_callback	4
-../Drivers/Application_Drivers/Dlms_Interface/Image.c:87:5:image_transfer_preWrite_callback	2
-../Drivers/Application_Drivers/Dlms_Interface/Image.c:94:5:image_transfer_preAction_callback	9
