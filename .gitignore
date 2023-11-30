@@ -1,7 +1,0 @@
-*.exe
-*.o
-*.d
-*.json
-*.elf
-*.list
-Debug/.*
