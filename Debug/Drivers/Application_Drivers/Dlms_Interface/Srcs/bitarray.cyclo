@@ -1,0 +1,17 @@
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/bitarray.c:47:10:ba_getByteCount	4
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/bitarray.c:62:5:getByteIndex	1
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/bitarray.c:70:6:ba_init	1
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/bitarray.c:81:6:ba_isAttached	1
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/bitarray.c:86:10:ba_getCapacity	1
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/bitarray.c:91:10:ba_size	2
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/bitarray.c:96:6:ba_attach	1
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/bitarray.c:111:5:ba_capacity	8
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/bitarray.c:171:5:ba_set	2
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/bitarray.c:182:5:ba_setByIndex	8
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/bitarray.c:220:5:ba_copy	3
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/bitarray.c:241:6:ba_clear	2
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/bitarray.c:258:5:ba_get	2
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/bitarray.c:269:5:ba_getByIndex	3
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/bitarray.c:281:5:ba_toInteger	3
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/bitarray.c:298:7:ba_toString	3
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/bitarray.c:322:5:ba_toString2	6

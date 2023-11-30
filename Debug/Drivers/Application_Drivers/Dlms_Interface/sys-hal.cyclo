@@ -1,0 +1,5 @@
+../Drivers/Application_Drivers/Dlms_Interface/sys-hal.c:7:7:malloc	1
+../Drivers/Application_Drivers/Dlms_Interface/sys-hal.c:11:6:free	1
+../Drivers/Application_Drivers/Dlms_Interface/sys-hal.c:16:10:time_elapsed	1
+../Drivers/Application_Drivers/Dlms_Interface/sys-hal.c:25:10:time_current	1
+../Drivers/Application_Drivers/Dlms_Interface/sys-hal.c:33:6:sysal_trace	1

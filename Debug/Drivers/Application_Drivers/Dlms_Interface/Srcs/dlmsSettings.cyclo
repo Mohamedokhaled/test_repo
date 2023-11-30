@@ -1,0 +1,17 @@
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/dlmsSettings.c:50:6:svr_init	1
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/dlmsSettings.c:89:6:cl_init	2
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/dlmsSettings.c:172:6:cl_clear	2
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/dlmsSettings.c:212:6:svr_clear	1
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/dlmsSettings.c:219:6:plc_reset	4
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/dlmsSettings.c:258:6:resetBlockIndex	1
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/dlmsSettings.c:264:6:resetFrameSequence	2
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/dlmsSettings.c:279:15:increaseReceiverSequence	1
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/dlmsSettings.c:290:15:increaseSendSequence	1
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/dlmsSettings.c:296:15:checkFrame	14
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/dlmsSettings.c:359:15:getNextSend	2
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/dlmsSettings.c:373:15:getReceiverReady	1
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/dlmsSettings.c:380:15:getKeepAlive	1
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/dlmsSettings.c:388:15:isCiphered	1
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/dlmsSettings.c:395:6:trans_init	1
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/dlmsSettings.c:404:6:trans_clear	1
+../Drivers/Application_Drivers/Dlms_Interface/Srcs/dlmsSettings.c:413:6:updateInvokeId	3
